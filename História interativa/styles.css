@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(73, 172, 142);
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(109, 231, 119);
+    font-family: "Concert One", sans-serif;
+    font-size: 15px;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-Align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 110%;
+}
